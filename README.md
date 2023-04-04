@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaheyshRamesh
-- 👀 I’m an enthusiast in Math,Science and Computer Science-just a beginner! 
+- 👀 I’m an enthusiast in Math, Science and Computer Science-just a beginner! 
 - 🌱 I’m currently learning all the fundalmentals of CS and math. I also am learning a bit of python. 
 - 💞️ I’m looking to collaborate on ...(something in the future)-not sure what yet. 
 - 📫 How to reach me ...
